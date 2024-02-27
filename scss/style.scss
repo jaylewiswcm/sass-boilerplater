@@ -1,0 +1,17 @@
+// Global stylesheet where import all other stylesheets 
+
+// Abstracts
+@import "./abstracts/all";
+
+// Base
+@import "./base/all"; 
+
+// Layout
+@import "./layout/all"; 
+
+// Pages 
+@import "./pages/all";
+
+// Components
+@import "./components/all";
+
